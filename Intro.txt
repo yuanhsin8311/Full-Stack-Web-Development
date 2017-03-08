@@ -1,0 +1,46 @@
+Frontend                 Debugging
+             database
+Backend                  Version Control
+
+
+# Frontend Technologies
+HTML
+HTML5
+CSS3
+Twitter Bootstrap
+JavaScript
+jQuery
+
+
+# Backend Technologies
+Node.js: NPM, Express, template engines, authentication
+Meteor.js
+Angular
+PHP
+Ruby on Rails
+
+# Databases
+MySQL
+PostgreSQL
+mONGOdb
+CouchDB
+
+# Other Essential Technologies
+Memcached
+Redis
+Markdown
+Sass
+
+
+# Version Control & Debug
+GIT
+Grunt
+Gulp
+Chrome Developer Tools
+PHP Debugging & Errors
+
+
+
+
+
+
