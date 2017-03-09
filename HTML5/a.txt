@@ -1,1 +1,70 @@
+[ HTML ]
+HTML is a markup language for creating web documents/pages.
+# Hyper Text Markup Language
+# Markup language - Uses a set of markup tags
+# Not a programming language
+
+[ HTML Tags]
+<p>This is my first web page.</p>
+
+[ Page Structure ]
+
+<!DOCTYPE html>
+<html>
+  <head>
+        <title>My Webpage</title>
+  </head>
+  <body>
+        <p>This is my first web page.</p>
+  </body>
+</html>
+
+[ Closing Tags ]
+Not all tags have closing tags like <p></p>
+Some tags can close themselves.
+Line-Break-Tag <br>
+Self Closing Line-Break Tag <br/>
+
+[ Common Tags ]
+paragraph <p>                    input <input>
+heading <h1> - <h6>              button <button>
+link <a>                         lin break <br>
+image <img>                      horizontal rule <hr>
+unordered list <ul>              division <div>
+ordered list <ol>                html <html>
+list item <li>                   head <head>
+table <table>                    body <body>
+form <form>                      strong <strong>
+
+[ Attributes ]
+Tags can also have "attributes" which include extra bits of information about that tag/element.
+Attributes appear in the tag inside of quotation marks.
+
+<tag attribute="value></tag>
+<a href="http://google.com"> Click</a>
+<h1 id="myHeading"> </h1>
+
+[ Block Level Elements ]
+1. Always starts on a new line
+2. Takes up full available width
+<div>
+<h1> - <h6>
+<p>
+<form>
+
+[ Inline Level Elements ]
+1. Does not start on a new line
+2. Takes only width necessary
+<span>
+<a>
+<img>
+
+
+
+
+
+
+
+
+
 
